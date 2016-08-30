@@ -1,0 +1,9 @@
+iniciar rmi con la siguiente linea:
+rmiregistry -J-Djava.rmi.server.useCodebaseOnly=false
+
+correr primero el servidor y despues el cliente 
+
+cualquier consa en este video esta el tutorial completo
+https://www.youtube.com/watch?v=vnWBrCSjb44
+
+Ro
